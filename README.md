@@ -10,3 +10,8 @@ collection-of-android
 * https://github.com/lzyzsd/AndroidHotFixExamples
 * https://github.com/dodola/HotFix
 * https://github.com/jasonross/Nuwa
+
+## Android实现应用内更新版本
+
+* http://www.wangchenlong.org/2016/03/20/1603/201-implement-update-app [by SpikeKing](https://github.com/SpikeKing)
+* https://github.com/SpikeKing/wcl-update-request-demo
