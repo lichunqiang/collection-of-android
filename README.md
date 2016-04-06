@@ -1,6 +1,10 @@
 collection-of-android
 ---------------------
 
+## Android开源控件收集
+
+* [AndroidLibs](https://github.com/XXApple/AndroidLibs) - 收集了比较全的中文的各种控件列表集
+
 ## Android热更新实现
 
 参考文章：http://blog.csdn.net/lzyzsd/article/details/49843581
