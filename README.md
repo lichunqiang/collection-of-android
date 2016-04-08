@@ -8,6 +8,7 @@ collection-of-android
 ## Android开源控件收集
 
 * [AndroidLibs](https://github.com/XXApple/AndroidLibs) - 收集了比较全的中文的各种控件列表集
+* [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) - 收集了各种下拉刷新控件
 
 ## Android版本更新
 
