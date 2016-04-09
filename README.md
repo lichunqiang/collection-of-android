@@ -10,7 +10,8 @@ collection-of-android
 
 * [AndroidLibs](https://github.com/XXApple/AndroidLibs) - 收集了比较全的中文的各种控件列表集
 * [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) - 收集了各种下拉刷新控件
-* [](https://github.com/Jacksgong/JKeyboardPanelSwitch) - Android键盘面板冲突 布局闪动处理方案
+* [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - Android键盘面板冲突 布局闪动处理方案
+* [glide](https://github.com/bumptech/glide) - 图片媒体管理/缓存等
 
 ## Android版本更新
 
