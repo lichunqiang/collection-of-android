@@ -12,6 +12,7 @@ collection-of-android
 * [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) - 收集了各种下拉刷新控件
 * [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - Android键盘面板冲突 布局闪动处理方案
 * [glide](https://github.com/bumptech/glide) - 图片媒体管理/缓存等
+* [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
 
 ## Android版本更新
 
