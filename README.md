@@ -13,6 +13,7 @@ collection-of-android
 * [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - Android键盘面板冲突 布局闪动处理方案
 * [glide](https://github.com/bumptech/glide) - 图片媒体管理/缓存等
 * [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
+* [SuperAdapter](https://github.com/byteam/SuperAdapter) - 一个Adapter同时适用RecyclerView、ListView、GridView、Spinner。
 
 ## Android版本更新
 
