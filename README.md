@@ -5,6 +5,7 @@ collection-of-android
 
 * [android-best-practices](https://github.com/futurice/android-best-practices) - Android最佳实践 
 * [AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo) - 附带简书教程
+* [BasicApp](https://github.com/meikoz/BasicApp) - 一个APP架构
 
 ## Android开源控件收集
 
