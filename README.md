@@ -17,6 +17,7 @@ collection-of-android
 * [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
 * [SuperAdapter](https://github.com/byteam/SuperAdapter) - 一个Adapter同时适用RecyclerView、ListView、GridView、Spinner。
 * [VCameraDemo](https://github.com/motianhuo/VCameraDemo) - 微信小视频+秒拍,FFmpeg库封装
+* [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - 一个TextView可以查看更多
 
 ## Android版本更新
 
