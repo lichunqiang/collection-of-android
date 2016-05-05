@@ -9,6 +9,7 @@ collection-of-android
 * [Android自定义Notification](http://sixwolf.net/blog/2016/04/18/Android%E8%87%AA%E5%AE%9A%E4%B9%89Notification%E5%B9%B6%E6%B2%A1%E6%9C%89%E9%82%A3%E4%B9%88%E7%AE%80%E5%8D%95/)
 * [认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
 * [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - 流行的优质android开源项目分析、学习、仿写
+* [Android混淆详解](http://www.jianshu.com/p/60e82aafcfd0)
 
 ## Android开源控件收集
 
