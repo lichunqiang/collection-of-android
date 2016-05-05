@@ -21,6 +21,7 @@ collection-of-android
 * [VCameraDemo](https://github.com/motianhuo/VCameraDemo) - 微信小视频+秒拍,FFmpeg库封装
 * [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - 一个TextView可以查看更多
 * [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
+* [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 图像库
 
 ## Android版本更新
 
