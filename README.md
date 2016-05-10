@@ -24,6 +24,7 @@ collection-of-android
 * [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
 * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 图像库
 * [flexbox-layout](https://github.com/google/flexbox-layout) - flexbox for android
+* [sensey](https://github.com/nisrulz/sensey) - 手势探测库
 
 ## Android版本更新
 
