@@ -10,6 +10,7 @@ collection-of-android
 * [认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
 * [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - 流行的优质android开源项目分析、学习、仿写
 * [Android混淆详解](http://www.jianshu.com/p/60e82aafcfd0)
+* [Fragment全解析系列](http://www.jianshu.com/p/d9143a92ad94)
 
 ## Android开源控件收集
 
@@ -25,6 +26,11 @@ collection-of-android
 * [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 图像库
 * [flexbox-layout](https://github.com/google/flexbox-layout) - flexbox for android
 * [sensey](https://github.com/nisrulz/sensey) - 手势探测库
+* [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - 气泡样式组件，包含tooltip
+
+## 完整APP
+
+* [TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式](https://github.com/gzsll/TLint)
 
 ## Android版本更新
 
