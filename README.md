@@ -14,20 +14,57 @@ collection-of-android
 
 ## Android开源控件收集
 
+### Widgets
+
+* [TagsEditText](https://github.com/mabbas007/TagsEditText) - Tag 输入框
+* [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - 一个TextView可以查看更多
+* [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - 气泡样式组件，包含tooltip
+
+### 控件收集集合
+
 * [AndroidLibs](https://github.com/XXApple/AndroidLibs) - 收集了比较全的中文的各种控件列表集
+
+
+### 下拉刷新/上拉加载
+
 * [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) - 收集了各种下拉刷新控件
-* [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - Android键盘面板冲突 布局闪动处理方案
+* [SpringView](https://github.com/liaoinstan/SpringView) - 一个提供了上下拖拽的功能组件
+
+### 布局 Layouts
+
+* [flexbox-layout](https://github.com/google/flexbox-layout) - flexbox for android
+
+### View
+
+* [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
+* [Shuffle](https://github.com/Meetic/Shuffle) - 可自定义swipe view方向的控件
+
+### 视频&Video
+
+* [easy-video-player](https://github.com/afollestad/easy-video-player) - 封装MediaPlayer API的视频播放器
+* [VCameraDemo](https://github.com/motianhuo/VCameraDemo) - 微信小视频+秒拍,FFmpeg库封装
+
+
+### 图片处理
+
 * [glide](https://github.com/bumptech/glide) - 图片媒体管理/缓存等
+* [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 图像库
+
+### Adapters
+
 * [baseAdapter](https://github.com/hongyangAndroid/baseAdapter) - Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
 * [SuperAdapter](https://github.com/byteam/SuperAdapter) - 一个Adapter同时适用RecyclerView、ListView、GridView、Spinner。
-* [VCameraDemo](https://github.com/motianhuo/VCameraDemo) - 微信小视频+秒拍,FFmpeg库封装
-* [ReadMoreTextView](https://github.com/borjabravo10/ReadMoreTextView) - 一个TextView可以查看更多
-* [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
-* [GalleryFinal](https://github.com/pengjianbo/GalleryFinal) - 图像库
-* [flexbox-layout](https://github.com/google/flexbox-layout) - flexbox for android
+
+### Lib
+
 * [sensey](https://github.com/nisrulz/sensey) - 手势探测库
-* [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - 气泡样式组件，包含tooltip
-* [SpringView](https://github.com/liaoinstan/SpringView) - 一个提供了上下拖拽的功能组件
+* [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - 获取当前Android设备信息类库
+* [UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) - 处理APP更新的组件
+
+### misc
+
+* [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch) - Android键盘面板冲突 布局闪动处理方案
+* [T-MVP](https://github.com/north2014/T-MVP) - 对MVP格式的瘦身处理
 
 ## 完整APP
 
