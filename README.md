@@ -11,6 +11,7 @@ collection-of-android
 * [android-open-source-project-cracking](https://github.com/wingjay/android-open-source-project-cracking) - 流行的优质android开源项目分析、学习、仿写
 * [Android混淆详解](http://www.jianshu.com/p/60e82aafcfd0)
 * [Fragment全解析系列](http://www.jianshu.com/p/d9143a92ad94)
+* [RecyclerView技术栈](http://www.jianshu.com/p/16712681731e)
 
 ## Android开源控件收集
 
