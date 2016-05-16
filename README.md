@@ -27,6 +27,7 @@ collection-of-android
 * [flexbox-layout](https://github.com/google/flexbox-layout) - flexbox for android
 * [sensey](https://github.com/nisrulz/sensey) - 手势探测库
 * [BubbleLayout](https://github.com/MasayukiSuda/BubbleLayout) - 气泡样式组件，包含tooltip
+* [SpringView](https://github.com/liaoinstan/SpringView) - 一个提供了上下拖拽的功能组件
 
 ## 完整APP
 
