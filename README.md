@@ -39,6 +39,7 @@ collection-of-android
 
 * [StickyHeaderListView](https://github.com/sfsheng0322/StickyHeaderListView) - 功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
 * [Shuffle](https://github.com/Meetic/Shuffle) - 可自定义swipe view方向的控件
+* [advancedtextview](https://github.com/oktayayr/advancedtextview) - 对原生TextView进行一些增强功能
 
 ### 视频&Video
 
